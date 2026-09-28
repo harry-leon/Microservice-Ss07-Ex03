@@ -1,0 +1,21 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/
+!**/src/test/**/
+
+### Optionals ###
+.DS_Store
+.mvn/
+mvnw
+mvnw.cmd
+*.iml
+
+### IDE ###
+.idea/
+.vscode/
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+bin/
